@@ -1,0 +1,217 @@
+"id","user_login","user_nicename","user_email","user_url","user_registered","user_status","display_name","nickname","first_name","last_name","description","rich_editing","comment_shortcuts","admin_color","use_ssl","show_admin_bar_front","wp_capabilities","wp_user_level","dismissed_wp_pointers","show_welcome_panel","session_tokens","wp_user-settings","wp_user-settings-time","wp_dashboard_quick_press_last_post_id","manageedit-shop_ordercolumnshidden","tgmpa_dismissed_notice_plumtree","edit_page_per_page","id","user_status","nav_menu_recently_edited","tgmpa_dismissed_notice","wp_media_library_mode","managenav-menuscolumnshidden","metaboxhidden_nav-menus","upload_per_page","closedpostboxes_product","metaboxhidden_product","closedpostboxes_post","metaboxhidden_post","closedpostboxes_nav-menus","wysija_pref","billing_first_name","billing_last_name","billing_company","billing_address_1","billing_address_2","billing_city","billing_postcode","billing_country","billing_state","billing_phone","billing_email","shipping_first_name","shipping_last_name","shipping_company","shipping_address_1","shipping_address_2","shipping_city","shipping_postcode","shipping_country","shipping_state","twitter","googleplus","facebook","wp__liked_posts","wp__user_like_count","closedpostboxes_page","metaboxhidden_page","pv_shop_name","pv_shop_slug","pv_paypal","pv_shop_html_enabled","pv_custom_commission_rate","pv_shop_description","wcv_give_vendor_tax","wcv_give_vendor_shipping","_wcv_store_address1","_wcv_shipping_address1","_wcv_shipping_address2","paying_customer","_woocommerce_persistent_cart","pv_seller_info","pv_logo_image","pv_logo_position","pv_featured_carousel","default_password_nag","_wcv_shipping","_money_spent","_order_count","pv_question_form","meta-box-order_page","screen_layout_page","tgmpa_dismissed_notice_tgmpa","_wcv_store_city","_wcv_store_state","_wcv_store_country","_wcv_shipping_city","_wcv_shipping_postcode","_wcv_youtube_url","_wcv_pinterest_url","_wcv_store_icon_id","_wcv_googleplus_url","_wcv_linkedin_url","_wcv_facebook_url","_wcv_shipping_country","_wcv_shipping_state","_wcv_store_phone","_wcv_twitter_username","_wcv_instagram_username","_wcv_store_id","_wcv_store_banner_id","_wcv_store_address2","_wcv_store_postcode","_wcv_company_url","_wcv_shipping_rates","pv_message_sender","last_update","wp__liked_vendors"
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+"2","Vendor Test","vendor-test","example@example.gmail.com","","2015-05-26 15:33:27","0","New Vendor","New Vendor","John","Doe","","true","false","fresh","0","true","a:1:{s:6:""vendor"";b:1;}","0","wp410_dfw","","","libraryContent=browse&urlbutton=none&align=left&editor=html","1442244226","","a:1:{i:0;s:15:""billing_address"";}","","","2","0","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","New vendor's Shop","new-vendors-shop","newmail@example.com","1","","<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">About ""Vendor Shop Example""</h4>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>","","","15 Rue Frédéric Mistral","","","","","<div class=""row"">
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<ul class=""ig-list-icons  ig-position-left ig-shape-circle ig-icon-24"">
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-money""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">Great Price</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-smile-o""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">100% Satisfaction</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+</ul></div>
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">About ""Vendor Shop Example""</h4>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</div> 
+</div>","http://fordemo.local/wp-content/uploads/2016/06/logo-4.png","left","on","","a:14:{s:8:""national"";s:0:"""";s:21:""national_qty_override"";s:0:"""";s:13:""national_free"";s:0:"""";s:16:""national_disable"";s:0:"""";s:13:""international"";s:0:"""";s:26:""international_qty_override"";s:0:"""";s:18:""international_free"";s:0:"""";s:21:""international_disable"";s:0:"""";s:20:""product_handling_fee"";s:0:"""";s:18:""order_handling_fee"";s:0:"""";s:15:""shipping_policy"";s:0:"""";s:13:""return_policy"";s:0:"""";s:13:""shipping_from"";s:13:""store_address"";s:16:""shipping_address"";s:0:"""";}","","","on","","","","Saint-Victor","France","FR","","","http://example.com","http://example.com","3246","http://example.com","http://example.com","http://example.com","","","12-123-453","example","example","2992","","","","","","on","1470405295","a:0:{}"
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+"3","vendor21","vendor21","vendor21@exam.com","","2015-09-10 12:00:15","0","vendor21","vendor21","Victor","Hex","","true","false","fresh","0","true","a:1:{s:6:""vendor"";b:1;}","0","","","a:1:{s:64:""b53e3d759438ccb73d02b6d5379dc047cc3b5f44c10ef3b14f071d184cdea613"";a:4:{s:10:""expiration"";i:1470406475;s:2:""ip"";s:12:""46.33.255.34"";s:2:""ua"";s:109:""Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"";s:5:""login"";i:1470233675;}}","editor=html&libraryContent=browse","1449073362","","a:1:{i:0;s:15:""billing_address"";}","","","3","0","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","Vendor Shop Example","vendor-shop-example","vendor21@exam.com","1","","<h4 style=""font-family: Verdana; font-size: 15px; color: #000000; font-weight: 700 !important;"">About ""Vendor Shop Example""</h4>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","","","15 Rue Frédéric Mistral","17 Rue du Louvre","Crédit du Nord","","a:1:{s:4:""cart"";a:1:{s:32:""9f61408e3afb633e50cdf1b20de6f466"";a:9:{s:10:""product_id"";i:56;s:12:""variation_id"";i:0;s:9:""variation"";a:0:{}s:8:""quantity"";i:1;s:10:""line_total"";d:35;s:8:""line_tax"";i:0;s:13:""line_subtotal"";i:35;s:17:""line_subtotal_tax"";i:0;s:13:""line_tax_data"";a:2:{s:5:""total"";a:0:{}s:8:""subtotal"";a:0:{}}}}}","<div class=""row"">
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<ul class=""ig-list-icons  ig-position-left ig-shape-circle ig-icon-24"">
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-money""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">Great Price</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-smile-o""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">100% Satisfaction</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+</ul></div>
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">About ""Vendor Shop Example""</h4>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</div> 
+</div>","http://fordemo.local/wp-content/uploads/2016/07/logo-5.png","left","on","","a:14:{s:8:""national"";s:0:"""";s:21:""national_qty_override"";s:0:"""";s:13:""national_free"";s:0:"""";s:16:""national_disable"";s:0:"""";s:13:""international"";s:0:"""";s:26:""international_qty_override"";s:0:"""";s:18:""international_free"";s:0:"""";s:21:""international_disable"";s:0:"""";s:20:""product_handling_fee"";s:0:"""";s:18:""order_handling_fee"";s:0:"""";s:15:""shipping_policy"";s:0:"""";s:13:""return_policy"";s:0:"""";s:13:""shipping_from"";s:13:""store_address"";s:16:""shipping_address"";s:0:"""";}","","","on","","","","Saint-Victor","France","FR","Paris","75001","http://example.com","http://example.com","3244","http://example.com","http://example.com","http://example.com","FR","","12-123-453","example","example","2993","","","","","","on","1470408399",""
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+"4","vendor22","vendor22","vendor22@exam.com","","2015-09-10 12:04:22","0","vendor22","vendor22","Jane","Doe","","true","false","fresh","0","true","a:1:{s:6:""vendor"";b:1;}","0","","","","editor=html&imgsize=full","1442243143","","a:1:{i:0;s:15:""billing_address"";}","","","4","0","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","Another Vendor Shop","another-vendor-shop","vendor22@exam.com","1","","<h4 style=""font-family: Verdana; font-size: 15px; color: #000000; font-weight: 700 !important;"">About ""Vendor Shop Example""</h4>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","","","15 Rue Frédéric Mistral","","","","","<div class=""row"">
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<ul class=""ig-list-icons  ig-position-left ig-shape-circle ig-icon-24"">
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-money""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">Great Price</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-smile-o""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">100% Satisfaction</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+</ul></div>
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">About ""Vendor Shop Example""</h4>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</div> 
+</div>","http://fordemo.local/wp-content/uploads/2016/06/logo-1-1.png","left","off","","a:14:{s:8:""national"";s:0:"""";s:21:""national_qty_override"";s:0:"""";s:13:""national_free"";s:0:"""";s:16:""national_disable"";s:0:"""";s:13:""international"";s:0:"""";s:26:""international_qty_override"";s:0:"""";s:18:""international_free"";s:0:"""";s:21:""international_disable"";s:0:"""";s:20:""product_handling_fee"";s:0:"""";s:18:""order_handling_fee"";s:0:"""";s:15:""shipping_policy"";s:0:"""";s:13:""return_policy"";s:0:"""";s:13:""shipping_from"";s:13:""store_address"";s:16:""shipping_address"";s:0:"""";}","","","on","","","","Saint-Victor","France","FR","","","http://example.com","http://example.com","3239","http://example.com","http://example.com","http://example.com","","","12123453687","example","example","2994","","","","","","on","1470408447",""
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+"5","vendor23","vendor23","vendor23@exam.com","","2015-09-10 12:05:08","0","vendor23","vendor23","Lee","Smith","","true","false","fresh","0","true","a:1:{s:6:""vendor"";b:1;}","0","","","a:1:{s:64:""2745816a8485d48124f4edb7e5b9da3a5af1016ecb25fa5a2f457016876ac46e"";a:4:{s:10:""expiration"";i:1471355468;s:2:""ip"";s:12:""46.33.255.34"";s:2:""ua"";s:109:""Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"";s:5:""login"";i:1470145868;}}","editor=html&libraryContent=browse","1464771776","","a:1:{i:0;s:15:""billing_address"";}","","","5","0","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","Super Vendor Shop","super-vendor-shop","vendor23@exam.com","1","","<h4 style=""font-family: Verdana; font-size: 15px; color: #000000; font-weight: 700 !important;"">About ""Vendor Shop Example""</h4>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","","","","","","","a:1:{s:4:""cart"";a:6:{s:32:""c0c7c76d30bd3dcaefc96f40275bdc0a"";a:9:{s:10:""product_id"";i:50;s:12:""variation_id"";i:0;s:9:""variation"";a:0:{}s:8:""quantity"";i:1;s:10:""line_total"";d:35;s:8:""line_tax"";i:0;s:13:""line_subtotal"";i:35;s:17:""line_subtotal_tax"";i:0;s:13:""line_tax_data"";a:2:{s:5:""total"";a:0:{}s:8:""subtotal"";a:0:{}}}s:32:""735b90b4568125ed6c3f678819b6e058"";a:9:{s:10:""product_id"";i:67;s:12:""variation_id"";i:0;s:9:""variation"";a:0:{}s:8:""quantity"";i:1;s:10:""line_total"";d:15;s:8:""line_tax"";i:0;s:13:""line_subtotal"";i:15;s:17:""line_subtotal_tax"";i:0;s:13:""line_tax_data"";a:2:{s:5:""total"";a:0:{}s:8:""subtotal"";a:0:{}}}s:32:""8613985ec49eb8f757ae6439e879bb2a"";a:9:{s:10:""product_id"";i:90;s:12:""variation_id"";i:0;s:9:""variation"";a:0:{}s:8:""quantity"";i:1;s:10:""line_total"";d:9;s:8:""line_tax"";i:0;s:13:""line_subtotal"";i:9;s:17:""line_subtotal_tax"";i:0;s:13:""line_tax_data"";a:2:{s:5:""total"";a:0:{}s:8:""subtotal"";a:0:{}}}s:32:""d2ddea18f00665ce8623e36bd4e3c7c5"";a:9:{s:10:""product_id"";i:73;s:12:""variation_id"";i:0;s:9:""variation"";a:0:{}s:8:""quantity"";i:1;s:10:""line_total"";d:12;s:8:""line_tax"";i:0;s:13:""line_subtotal"";i:12;s:17:""line_subtotal_tax"";i:0;s:13:""line_tax_data"";a:2:{s:5:""total"";a:0:{}s:8:""subtotal"";a:0:{}}}s:32:""ac627ab1ccbdb62ec96e702f07f6425b"";a:9:{s:10:""product_id"";i:99;s:12:""variation_id"";i:0;s:9:""variation"";a:0:{}s:8:""quantity"";i:1;s:10:""line_total"";d:2;s:8:""line_tax"";i:0;s:13:""line_subtotal"";i:2;s:17:""line_subtotal_tax"";i:0;s:13:""line_tax_data"";a:2:{s:5:""total"";a:0:{}s:8:""subtotal"";a:0:{}}}s:32:""1f0e3dad99908345f7439f8ffabdffc4"";a:9:{s:10:""product_id"";i:19;s:12:""variation_id"";i:0;s:9:""variation"";a:0:{}s:8:""quantity"";i:1;s:10:""line_total"";d:20;s:8:""line_tax"";i:0;s:13:""line_subtotal"";i:20;s:17:""line_subtotal_tax"";i:0;s:13:""line_tax_data"";a:2:{s:5:""total"";a:0:{}s:8:""subtotal"";a:0:{}}}}}","<div class=""row"">
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<ul class=""ig-list-icons  ig-position-left ig-shape-circle ig-icon-24"">
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-money""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">Great Price</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-smile-o""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">100% Satisfaction</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+</ul></div>
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">About ""Vendor Shop Example""</h4>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</div> 
+</div>","http://fordemo.local/wp-content/uploads/2016/06/logo-6.png","left","off","","a:14:{s:8:""national"";s:0:"""";s:21:""national_qty_override"";s:0:"""";s:13:""national_free"";s:0:"""";s:16:""national_disable"";s:0:"""";s:13:""international"";s:0:"""";s:26:""international_qty_override"";s:0:"""";s:18:""international_free"";s:0:"""";s:21:""international_disable"";s:0:"""";s:20:""product_handling_fee"";s:0:"""";s:18:""order_handling_fee"";s:0:"""";s:15:""shipping_policy"";s:0:"""";s:13:""return_policy"";s:0:"""";s:13:""shipping_from"";s:13:""store_address"";s:16:""shipping_address"";s:0:"""";}","","","on","","","","","","GB","","","http://example.com","http://example.com","3238","http://example.com","http://example.com","http://example.com","","","12-123-453","example","example","2995","","","","","","on","1470408524","a:0:{}"
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+"6","vendor24","vendor24","vendor24@exam.com","","2015-09-10 12:05:43","0","vendor24","vendor24","","","","true","false","fresh","0","true","a:1:{s:6:""vendor"";b:1;}","0","","","","editor=html","1442242073","","a:1:{i:0;s:15:""billing_address"";}","","","6","0","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","Example Shop","example-shop","vendor24@exam.com","1","","<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">About ""Vendor Shop Example""</h4>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>","","","","","","","","<div class=""row"">
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<ul class=""ig-list-icons  ig-position-left ig-shape-circle ig-icon-24"">
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-money""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">Great Price</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-smile-o""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">100% Satisfaction</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+</ul></div>
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">About ""Vendor Shop Example""</h4>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+</div> 
+</div>","http://fordemo.local/wp-content/uploads/2016/06/logo-2.png","left","off","","a:14:{s:8:""national"";s:0:"""";s:21:""national_qty_override"";s:0:"""";s:13:""national_free"";s:0:"""";s:16:""national_disable"";s:0:"""";s:13:""international"";s:0:"""";s:26:""international_qty_override"";s:0:"""";s:18:""international_free"";s:0:"""";s:21:""international_disable"";s:0:"""";s:20:""product_handling_fee"";s:0:"""";s:18:""order_handling_fee"";s:0:"""";s:15:""shipping_policy"";s:0:"""";s:13:""return_policy"";s:0:"""";s:13:""shipping_from"";s:13:""store_address"";s:16:""shipping_address"";s:0:"""";}","","","off","","","","","","FR","","","http://example.com","http://example.com","3236","http://example.com","http://example.com","http://example.com","","","12-123-453","example","example","2996","","","","","","","1470404866",""
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+<br />
+<b>Notice</b>:  WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1! Use <code>WP_User->ID</code> instead. in <b>/Users/dev/Sites/fordemo/wp-includes/functions.php</b> on line <b>3842</b><br />
+"7","vendor26","vendor26","vendor26@exam.com","","2015-09-10 12:07:14","0","vendor26","vendor26","","","","true","false","fresh","0","true","a:1:{s:6:""vendor"";b:1;}","0","","","","libraryContent=browse","1466596564","","a:1:{i:0;s:15:""billing_address"";}","","","7","0","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","New vendor shop","new-vendor-shop","vendor26@exam.com","1","","<h4 style=""font-family: Verdana; font-size: 15px; color: #000000; font-weight: 700 !important;"">About ""Vendor Shop Example""</h4>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","","","","","","","","<div class=""row"">
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<ul class=""ig-list-icons  ig-position-left ig-shape-circle ig-icon-24"">
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-money""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">Great Price</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+<li>
+	<div style=""background-color: #c1d449;color: #ffffff"" class=""ig-icon-base"">
+		<i class=""fa fa-smile-o""></i>
+	</div>
+	<div class=""ig-list-content-wrap"">
+		<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">100% Satisfaction</h4>
+		<div class=""ig-list-content"">
+			Lorem a laoreet praesent dictum ut sagittis accumsan eu elit orci lacinia quis
+		</div>
+	</div>
+</li>
+</ul></div>
+<div class=""col-md-6"" style=""margin-bottom: 0 !important;"">
+<h4 style=""font-family: Verdana;font-size: 15px;color: #000000;font-weight: 700 !important"">About ""Vendor Shop Example""</h4>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</div> 
+</div>","http://fordemo.local/wp-content/uploads/2016/06/logo-3.png","left","off","","a:14:{s:8:""national"";s:0:"""";s:21:""national_qty_override"";s:0:"""";s:13:""national_free"";s:0:"""";s:16:""national_disable"";s:0:"""";s:13:""international"";s:0:"""";s:26:""international_qty_override"";s:0:"""";s:18:""international_free"";s:0:"""";s:21:""international_disable"";s:0:"""";s:20:""product_handling_fee"";s:0:"""";s:18:""order_handling_fee"";s:0:"""";s:15:""shipping_policy"";s:0:"""";s:13:""return_policy"";s:0:"""";s:13:""shipping_from"";s:13:""store_address"";s:16:""shipping_address"";s:0:"""";}","","","off","","","","","","GB","","","http://example.com","http://example.com","3278","http://example.com","http://example.com","http://example.com","","","","example","example","2998","","","","","","","1470408562",""
